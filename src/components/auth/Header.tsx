@@ -1,4 +1,4 @@
-import { Head } from 'next/document'
+
 import React from 'react'
 
 interface HeaderProps {
